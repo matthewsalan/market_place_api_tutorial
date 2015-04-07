@@ -2,4 +2,4 @@
 
 Tutorial I am working on to learn how to build a vernsioned Rails JSON API.
 
-* Rails 4.0.2
+* Rails 4.2.0
