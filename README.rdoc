@@ -1,5 +1,5 @@
 == README
 
-Tutorial I am working on to learn how to build a vernsioned Rails JSON API.
+Tutorial I am working on to learn how to build a versioned Rails JSON API.
 
 * Rails 4.2.0
